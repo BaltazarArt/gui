@@ -1,4 +1,7 @@
-
+/*
+Reyes Baltazar Baltazar. Matricula: 2022705
+Licenciatura en Sistemas Computacionales
+ */
 package gui;
 
 import java.awt.Color;
